@@ -1,0 +1,6 @@
+{
+  "name": "Speak Buddy",
+  "description": "Sahabat curhat dan konseling siswa yang cerdas, aman, dan penuh empati, ditenagai oleh Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
